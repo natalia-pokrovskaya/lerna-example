@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/yacineb/lerna-example#readme",
   "devDependencies": {
-    "lerna": "^3.13.1"
-  },
-  "dependencies": {}
+    "lerna": "^4.0.0"
+  }
 }
